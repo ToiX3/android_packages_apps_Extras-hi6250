@@ -267,10 +267,6 @@ public class SettingsActivity extends SettingsDrawerActivity {
                     SystemPropertiesReflection.SetSystemString(PROPERTY_MEDIA_GOOGLE_ENCODER, newValue ? "true" : "false");
                     break;
                 }
-                case R.string.pref_media_albumart_key: {
-                    SystemPropertiesReflection.SetSystemString(PROPERTY_MEDIA_HIDEALBUMART, newValue ? "true" : "false");
-                    break;
-                }
                 case R.string.pref_huawei_glovemode_key: {
                     Functions.SetGloveModeValue(newValue);
                     editor.putBoolean("pref_huawei_glovemode", newValue);
