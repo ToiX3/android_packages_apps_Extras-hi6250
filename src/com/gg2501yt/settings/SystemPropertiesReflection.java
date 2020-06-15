@@ -2,7 +2,7 @@
 // Simple Java app that provides preferences specific to the Huawei P9 Lite line of devices (AOSP)
 // Copyright (C) 2017  Daniel 'dady8889' Múčka
 
-package com.dady8889.huaweisettings;
+package com.gg2501yt.settings;
 
 import android.util.Log;
 

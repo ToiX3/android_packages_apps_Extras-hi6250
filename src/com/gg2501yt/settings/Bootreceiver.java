@@ -2,7 +2,7 @@
 // Simple Java app that provides preferences specific to the Huawei P9 Lite line of devices (AOSP)
 // Copyright (C) 2017  Daniel 'dady8889' Múčka
 
-package com.dady8889.huaweisettings;
+package com.gg2501yt.settings;
 
 import android.content.BroadcastReceiver;
 import android.content.SharedPreferences;
@@ -11,7 +11,7 @@ import android.content.Intent;
 import android.util.Log;
 import android.preference.PreferenceManager;
 
-import com.dady8889.huaweisettings.Functions;
+import com.gg2501yt.settings.Functions;
 
 public class Bootreceiver extends BroadcastReceiver  {
 
