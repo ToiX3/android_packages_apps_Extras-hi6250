@@ -47,10 +47,6 @@
     <string name="pref_media_encoder_description">Ersetzt den Stock Video-Kodierer durch den von Google. Möglicherweise wird die Kamera in einigen Apps behoben. (Neustart benötigt)</string>
     <string name="pref_media_encoder_key" translatable="true">pref_media_encoder</string>
 
-    <string name="pref_media_albumart_title">Lockscreen album art</string>
-    <string name="pref_media_albumart_description">Deaktiviert das Albumcover auf dem Sperrbildschirm.</string>
-    <string name="pref_media_albumart_key" translatable="true">pref_media_albumart</string>
-
     <!-- Andere -->
     <string name="pref_huawei_glovemode_title">Handschuh-Modus</string>
     <string name="pref_huawei_glovemode_description">Höhere Touch-Empfindlichkeit.</string>

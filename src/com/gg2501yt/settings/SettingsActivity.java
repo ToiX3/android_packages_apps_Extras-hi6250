@@ -24,7 +24,7 @@ import com.gg2501yt.settings.Functions;
 
 public class SettingsActivity extends SettingsDrawerActivity {
 
-    private static final String TAG = "HuaweiSettings";
+    private static final String TAG = "Extras";
 
     private static final String PROPERTY_MULTISIM_CONFIG = "persist.radio.multisim.config";
     private static final String PROPERTY_SOFT_VSYNC = "debug.sf.no_hw_vsync";
@@ -188,11 +188,6 @@ public class SettingsActivity extends SettingsDrawerActivity {
             // Set Media/Google AVC encoder
             actualBool = SystemPropertiesReflection.GetSystemBoolean(PROPERTY_MEDIA_GOOGLE_ENCODER, false);
             switchPref = (SwitchPreference)findPreference("pref_media_encoder");
-            switchPref.setChecked(actualBool);
-
-            // Set Media/Lockscreen album art
-            actualBool = SystemPropertiesReflection.GetSystemBoolean(PROPERTY_MEDIA_HIDEALBUMART, false);
-            switchPref = (SwitchPreference)findPreference("pref_media_albumart");
             switchPref.setChecked(actualBool);
 
             // Set Other/Gloves mode
