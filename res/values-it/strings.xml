@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Extra</string>
+
+    <!-- Gruppi di preferenza -->
+    <string name="ril_settings_title">RIL</string>
+    <string name="gestures_settings_title">Gestisci</string>
+    <string name="workarounds_settings_title">Workarounds</string>
+    <string name="hal_settings_title">HALs</string>
+    <string name="media_settings_title">Media</string>
+    <string name="other_settings_title">Altro</string>
+
+    <!-- RIL -->
+    <string name="pref_huawei_simsetting_title">Dual-SIM</string>
+    <string name="pref_huawei_simsetting_description">Abilita Dual-SIM (Richiede il riavvio)</string>
+    <string name="pref_huawei_simsetting_key" translatable="true">pref_huawei_simsetting</string>
+
+    <!-- Gestisci -->
+    <string name="pref_huawei_dt2w_title">DT2W</string>
+    <string name="pref_huawei_dt2w_description">Schermo a doppio tocco per svegliarsi</string>
+    <string name="pref_huawei_dt2w_key" translatable="true">pref_huawei_dt2w</string>
+
+    <!-- Workarounds -->
+    <string name="pref_aospa_vsync_title">Software vsync</string>
+    <string name="pref_aospa_vsync_description">Disattivare vsync per correggere i ritardi (Richiede il riavvio)</string>
+    <string name="pref_aospa_vsync_key" translatable="true">pref_aospa_vsync</string>
+
+    <string name="pref_noble_title">Disattivare Bluetooth Low Energy</string>
+    <string name="pref_noble_description">Fissa l'accoppiamento del bluetooth a volte (Richiede il riavvio)</string>
+    <string name="pref_noble_key" translatable="true">pref_noble</string>
+
+    <!-- HAL -->
+    <string name="pref_hal_power_title">Stock Power-HAL</string>
+    <string name="pref_hal_power_description">Disabilita open-source power HAL (Richiede il riavvio)</string>
+    <string name="pref_hal_power_key" translatable="true">pref_hal_power</string>
+
+    <string name="pref_hal_lights_title">Stock Lights-HAL</string>
+    <string name="pref_hal_lights_description">Disabilita open-source lights HAL (Richiede il riavvio)</string>
+    <string name="pref_hal_lights_key" translatable="true">pref_hal_lights</string>
+
+    <string name="pref_hal_sensors_title">Emulare il sensore giroscopio</string>
+    <string name="pref_hal_sensors_description">Abilita il sensore giroscopio sperimentale (Richiede il riavvio)</string>
+    <string name="pref_hal_sensors_key" translatable="true">pref_hal_sensors</string>
+
+    <!-- Media -->
+    <string name="pref_media_encoder_title">Google AVC encoder</string>
+    <string name="pref_media_encoder_description">Sostituisce il codificatore video stock con quello di Google, può fissare la telecamera in alcune applicazioni (Richiede il riavvio)</string>
+    <string name="pref_media_encoder_key" translatable="true">pref_media_encoder</string>
+
+    <!-- Altro -->
+    <string name="pref_huawei_glovemode_title">Modalità guanti</string>
+    <string name="pref_huawei_glovemode_description">Per una maggiore sensibilità del touchscreen</string>
+    <string name="pref_huawei_glovemode_key" translatable="true">pref_huawei_glovemode</string>
+
+    <string name="pref_huawei_usbhostmode_title">USB-OTG</string>
+    <string name="pref_huawei_usbhostmode_description">Abilita USB-OTG (non supportato dal Kernel, utilizzare EliteKernel 7.1)</string>
+    <string name="pref_huawei_usbhostmode_key" translatable="true">pref_huawei_usbhostmode</string>
+
+    <!-- Menu -->
+    <string name="action_reboot_title">Riavvio</string>
+    <string name="action_reboot_description">Vuoi riavviare il tuo telefono?</string>
+
+    <!-- Opzioni di dialogo -->
+    <string name="alert_yes">Sì</string>
+    <string name="alert_no">No</string>
+</resources>
