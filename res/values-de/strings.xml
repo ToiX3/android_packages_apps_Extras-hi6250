@@ -43,8 +43,8 @@
     <string name="pref_hal_sensors_key" translatable="true">pref_hal_sensors</string>
 
     <!-- Media -->
-    <string name="pref_media_encoder_title">Google AVC encoder</string>
-    <string name="pref_media_encoder_description">Ersetzt den Stock Video-Kodierer durch den von Google (Neustart benötigt)</string>
+    <string name="pref_media_encoder_title">Google AVC-Encoder</string>
+    <string name="pref_media_encoder_description">Ersetzt den Stock AVC-Encoder durch den von Google (Neustart benötigt)</string>
     <string name="pref_media_encoder_key" translatable="true">pref_media_encoder</string>
 
     <!-- Andere -->

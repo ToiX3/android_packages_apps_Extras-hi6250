@@ -44,11 +44,11 @@
 
     <!-- Media -->
     <string name="pref_media_encoder_title">Google AVC encoder</string>
-    <string name="pref_media_encoder_description">Replaces stock video encoder with the Google one, may fix camera in some apps (Requires reboot)</string>
+    <string name="pref_media_encoder_description">Replaces stock video encoder with the Google one (Requires reboot)</string>
     <string name="pref_media_encoder_key" translatable="true">pref_media_encoder</string>
 
     <!-- Other -->
-    <string name="pref_huawei_glovemode_title">Gloves mode</string>
+    <string name="pref_huawei_glovemode_title">Glove-Mode</string>
     <string name="pref_huawei_glovemode_description">For higher touchscreen sensitivity</string>
     <string name="pref_huawei_glovemode_key" translatable="true">pref_huawei_glovemode</string>
 

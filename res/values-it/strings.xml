@@ -44,11 +44,11 @@
 
     <!-- Media -->
     <string name="pref_media_encoder_title">Google AVC encoder</string>
-    <string name="pref_media_encoder_description">Sostituisce il codificatore video stock con quello di Google, può fissare la telecamera in alcune applicazioni (Richiede il riavvio)</string>
+    <string name="pref_media_encoder_description">Sostituisce il codificatore video stock con quello di Google (Richiede il riavvio)</string>
     <string name="pref_media_encoder_key" translatable="true">pref_media_encoder</string>
 
     <!-- Altro -->
-    <string name="pref_huawei_glovemode_title">Modalità guanti</string>
+    <string name="pref_huawei_glovemode_title">Modalità Guanto</string>
     <string name="pref_huawei_glovemode_description">Per una maggiore sensibilità del touchscreen</string>
     <string name="pref_huawei_glovemode_key" translatable="true">pref_huawei_glovemode</string>
 
