@@ -26,7 +26,7 @@
     <string name="pref_aospa_vsync_key" translatable="true">pref_aospa_vsync</string>
 
     <string name="pref_noble_title">Disattivare Bluetooth Low Energy</string>
-    <string name="pref_noble_description">Fissa l'accoppiamento del bluetooth a volte (Richiede il riavvio)</string>
+    <string name="pref_noble_description">Fissa laccoppiamento del bluetooth a volte (Richiede il riavvio)</string>
     <string name="pref_noble_key" translatable="true">pref_noble</string>
 
     <!-- HAL -->
