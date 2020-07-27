@@ -11,8 +11,8 @@
     <string name="other_settings_title">Other</string>
 
     <!-- RIL -->
-    <string name="pref_huawei_simsetting_title">Dual SIM</string>
-    <string name="pref_huawei_simsetting_description">Switch the device from single-sim to dual-sim (Requires reboot)</string>
+    <string name="pref_huawei_simsetting_title">Dual-SIM</string>
+    <string name="pref_huawei_simsetting_description">Enables Dual-SIM (Requires reboot)</string>
     <string name="pref_huawei_simsetting_key" translatable="true">pref_huawei_simsetting</string>
 
     <!-- Gestures -->
@@ -25,7 +25,7 @@
     <string name="pref_aospa_vsync_description">Disable vsync to fix lags (Requires reboot)</string>
     <string name="pref_aospa_vsync_key" translatable="true">pref_aospa_vsync</string>
 
-    <string name="pref_noble_title">Bluetooth Low Energy</string>
+    <string name="pref_noble_title">Disable Bluetooth Low Energy</string>
     <string name="pref_noble_description">Fixes bluetooth pairing sometimes (Requires reboot)</string>
     <string name="pref_noble_key" translatable="true">pref_noble</string>
 

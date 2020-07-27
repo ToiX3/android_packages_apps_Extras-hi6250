@@ -11,7 +11,7 @@
     <string name="other_settings_title">Andere</string>
 
     <!-- RIL -->
-    <string name="pref_huawei_simsetting_title">Dual SIM</string>
+    <string name="pref_huawei_simsetting_title">Dual-SIM</string>
     <string name="pref_huawei_simsetting_description">Schaltet Dual-SIM ein (Neustart benötigt)</string>
     <string name="pref_huawei_simsetting_key" translatable="true">pref_huawei_simsetting</string>
 
@@ -25,8 +25,8 @@
     <string name="pref_aospa_vsync_description">Deaktiviert vsync um Lags zu fixen (Neustart benötigt)</string>
     <string name="pref_aospa_vsync_key" translatable="true">pref_aospa_vsync</string>
 
-    <string name="pref_noble_title">Bluetooth Low Energy</string>
-    <string name="pref_noble_description">Behebt die Bluetooth-Kopplung, gleichzeitig wird BLE deaktiviert (Neustart benötigt)</string>
+    <string name="pref_noble_title">Deaktiviere Bluetooth Low Energy</string>
+    <string name="pref_noble_description">Behebt möglicherweise die Bluetooth-Kopplung (Neustart benötigt)</string>
     <string name="pref_noble_key" translatable="true">pref_noble</string>
 
     <!-- HALs -->
