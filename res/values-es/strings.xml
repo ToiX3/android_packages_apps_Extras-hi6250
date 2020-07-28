@@ -21,7 +21,7 @@
     <string name="pref_huawei_dt2w_key" translatable="true">pref_huawei_dt2w</string>
 
     <!-- Workarounds -->
-    <string name="pref_aospa_vsync_title">Software vsync</string>
+    <string name="pref_aospa_vsync_title">Desactivar vsync</string>
     <string name="pref_aospa_vsync_description">Deshabilitar vsync para arreglar los retrasos (Requiere reiniciar)</string>
     <string name="pref_aospa_vsync_key" translatable="true">pref_aospa_vsync</string>
 
